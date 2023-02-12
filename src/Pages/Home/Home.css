@@ -1,0 +1,12 @@
+.banner{
+    background-image: url(banner.jpeg);
+    background-size: cover;
+    height: 90vh;
+}
+@media(max-width:700px){
+    .banner{
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 40vh;
+    }
+}
