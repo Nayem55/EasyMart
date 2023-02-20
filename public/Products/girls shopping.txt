@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "category":"Girl's Fashion",
+        "type": "Women's Sunglass",
+        "name": "Women Colour Sunglass",
+        "price": 7,
+        "ratings": 3.7,
+        "img": "https://i.ibb.co/2jM9xxy/girls1.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "2",
+        "category":"Girl's Fashion",
+        "type": "Women's Sharee",
+        "name": "Half Silk Sharee",
+        "price": 20,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/SBVrvbQ/girls2.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "3",
+        "category":"Girl's Fashion",
+        "type": "Women's Pant",
+        "name": "Slim Fit Pant",
+        "price": 14,
+        "ratings": 4.9,
+        "img": "https://i.ibb.co/S07QrR5/girls3.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "4",
+        "category":"Girl's Fashion",
+        "type": "Women's Fashion",
+        "name": "Fabric Embroidered Salwar Set",
+        "price": 19,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/WgkRfFL/girls4.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "5",
+        "category":"Girl's Fashion",
+        "type": "Women's Fashion",
+        "name": "Stylish Kurti",
+        "price": 15,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/wRyyj7y/girls5.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "6",
+        "category":"Girl's Fashion",
+        "type": "Women's Watch",
+        "name": "Luxurious Watch",
+        "price": 12,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/0qs8VBt/girls6.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "7",
+        "category":"Girl's Fashion",
+        "type": "Women's Watch",
+        "name": "Exclusive Watch",
+        "price": 8,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/vwKRfCm/girls7.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "8",
+        "category":"Girl's Fashion",
+        "type": "Women's Shoe",
+        "name": "Stylish Sandal",
+        "price": 11,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/6s1Gndh/girls8.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "9",
+        "category":"Girl's Fashion",
+        "type": "Women's Shoe",
+        "name": "Printed Shoe",
+        "price": 13,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/4NBTYNq/girls9.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "10",
+        "category":"Girl's Fashion",
+        "type": "Women's Perfume",
+        "name": "Romantic Perfume",
+        "price": 17,
+        "ratings": 4.9,
+        "img": "https://i.ibb.co/88LtVv4/girls10.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "11",
+        "category":"Girl's Fashion",
+        "type": "Women's Sharee",
+        "name": "Jorjet Sharee",
+        "price": 25,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/bWrwvZg/girls11.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "12",
+        "category":"Girl's Fashion",
+        "type": "Women's Bag",
+        "name": "Stylish Bag",
+        "price": 12,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/vv65z4N/girls12.jpg",
+        "shipping": 1
+    }
+]

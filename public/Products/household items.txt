@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "category":"Household Items",
+        "type": "Fan",
+        "name": "Rangs Fan",
+        "price": 19,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/jh5YkD7/household1.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "2",
+        "category":"Household Items",
+        "type": "Items",
+        "name": "Folding Iron Table & Iron",
+        "price": 23,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/SyzHt7x/household2.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "3",
+        "category":"Household Items",
+        "type": "Folding Umbrella",
+        "name": "Mini Folding Umbrella With Capsule Case",
+        "price": 12,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/dBCB6rC/household3.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "4",
+        "category":"Household Items",
+        "type": "Light",
+        "name": "Emergency AC-DC Light",
+        "price": 5,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/cY3FSh2/household4.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "5",
+        "category":"Household Items",
+        "type": "Water Purifier",
+        "name": "Pure It",
+        "price": 24,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/smXHn8B/household5.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "6",
+        "category":"Household Items",
+        "type": "Tools",
+        "name": "Electric Mini Sewing Machine",
+        "price": 10,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/1KPtRjf/household6.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "7",
+        "category":"Household Items",
+        "type": "Air Bed",
+        "name": "Double Air Bed With Pumper",
+        "price": 19,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/kGjvnHY/household7.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "8",
+        "category":"Household Items",
+        "type": "Chair",
+        "name": "Medium Rocking Chair",
+        "price": 16,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/NTRyVh0/household8.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "9",
+        "category":"Household Items",
+        "type": "Tools",
+        "name": "Inflatable Sofa Cum with Pumper",
+        "price": 21,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/xYFHtbV/household9.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "10",
+        "category":"Household Items",
+        "type": "Tools",
+        "name": "Screw Driver Set",
+        "price": 13,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/51qhC7Q/household10.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "11",
+        "category":"Household Items",
+        "type": "Tools",
+        "name": "Combination Pliers",
+        "price": 10,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/tsY70Hd/household11.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "12",
+        "category":"Household Items",
+        "type": "Accessories Box",
+        "name": "Sewing Accessories Box",
+        "price": 4,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/5WMcscb/household12.jpg",
+        "shipping": 1
+    }
+]

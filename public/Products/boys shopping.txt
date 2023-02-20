@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "category":"Boy's Fashion",
+        "type": "Men's Pant",
+        "name": "Formal Pant",
+        "price": 22,
+        "ratings": 4,
+        "img": "https://i.ibb.co/K6Qx9Xg/boys1.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "2",
+        "category":"Boy's Fashion",
+        "type": "Men's T-Shirt",
+        "name": "Full-Sleeve T-Shirt",
+        "price": 9,
+        "ratings": 3.9,
+        "img": "https://i.ibb.co/CK24GgZ/boys2.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "3",
+        "category":"Boy's Fashion",
+        "type": "Men's Panjabi",
+        "name": "Printed Stylish Panjabi",
+        "price": 15,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/fMsHCyJ/boys3.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "4",
+        "category":"Boy's Fashion",
+        "type": "Men's Shoe",
+        "name": "Formal Stylish Shoe",
+        "price": 12,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/zV5C873/boys4.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "5",
+        "category":"Boy's Fashion",
+        "type": "Men's Watch",
+        "name": "Luxurious Watch",
+        "price": 33,
+        "ratings": 4.9,
+        "img": "https://i.ibb.co/F0pDHY0/boys5.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "6",
+        "category":"Boy's Fashion",
+        "type": "Men's Belt",
+        "name": "Leather Belt",
+        "price": 6,
+        "ratings": 3.5,
+        "img": "https://i.ibb.co/mJbxzhH/boys6.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "7",
+        "category":"Boy's Fashion",
+        "type": "Men's Wallet",
+        "name": "Exclusive Leather Wallet",
+        "price": 11,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/F6RydKj/boys7.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "8",
+        "category":"Boy's Fashion",
+        "type": "Men's Shoe",
+        "name": "Fashionable Sneakers",
+        "price": 23,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/SBWdXDQ/boys8.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "9",
+        "category":"Boy's Fashion",
+        "type": "Men's Watch",
+        "name": "Digital LED Watch",
+        "price": 19,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/VWD7MyX/boys9.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "10",
+        "category":"Boy's Fashion",
+        "type": "Men's Fashion",
+        "name": "Sport Jacket",
+        "price": 24,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/Mf7bPbD/boys10.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "11",
+        "category":"Boy's Fashion",
+        "type": "Men's T-Shirt",
+        "name": "Casual T-Shirt",
+        "price": 9,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/pwBg9wQ/boys11.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "12",
+        "category":"Boy's Fashion",
+        "type": "Men's Pant",
+        "name": "Basic Stylish Pant",
+        "price": 16,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/k97TvTT/boys12.jpg",
+        "shipping": 1
+    }
+]

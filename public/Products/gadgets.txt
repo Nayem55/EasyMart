@@ -1,0 +1,242 @@
+[
+    {
+        "id": "1",
+        "category":"Gadgets",
+        "type": "Tab",
+        "name": "LCD Writing Tab",
+        "price": 4,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/tKHNBYk/gadgets1.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "2",
+        "category":"Gadgets",
+        "type": "Laptop",
+        "name": "Chuwi Hi 10x Laptop",
+        "price": 400,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/ZfRt77T/gadgets2.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "3",
+        "category":"Gadgets",
+        "type": "Camera",
+        "name": "Canon EOS Camera",
+        "price": 510,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/8D2pybk/gadgets3.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "4",
+        "category":"Gadgets",
+        "type": "Camera",
+        "name": "HD Pen camera recorder",
+        "price": 36,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/sV5ppGm/gadgets4.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "5",
+        "category":"Gadgets",
+        "type": "Headphones",
+        "name": "M18 Bluetooth headphones",
+        "price": 21,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/PZXp4tc/gadgets5.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "6",
+        "category":"Gadgets",
+        "type": "Laptop",
+        "name": "Chuwi HeroBook Pro Laptop",
+        "price": 560,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/Jj2z0WJ/gadgets6.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "7",
+        "category":"Gadgets",
+        "type": "Gadgets",
+        "name": "Octopus Tripod",
+        "price": 12,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/Fn6gDbT/gadgets7.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "8",
+        "category":"Gadgets",
+        "type": "Charger",
+        "name": "Durable Compact Fast Charger",
+        "price": 14,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/B3bPfw7/gadgets8.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "9",
+        "category":"Gadgets",
+        "type": "Web Cam",
+        "name": "WiFi IP 360 Degree Camera",
+        "price": 19,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/Dgwjdf8/gadgets9.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "10",
+        "category":"Gadgets",
+        "type": "Earphone",
+        "name": "Alloy HiFi Earphone",
+        "price": 11,
+        "ratings": 4.9,
+        "img": "https://i.ibb.co/zncWFfL/gadgets10.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "11",
+        "category":"Gadgets",
+        "type": "Charger",
+        "name": "Fast Charging Travel Charger",
+        "price": 16,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/r781GZX/gadgets11.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "12",
+        "category":"Gadgets",
+        "type": "USB Hub",
+        "name": "4 Port USB 3.0 Hub",
+        "price": 6,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/bd7GHn2/gadgets12.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "13",
+        "category":"Gadgets",
+        "type": "USB Cable",
+        "name": "Fast USB Cable",
+        "price": 2,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/8m7hgkY/gadget13.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "14",
+        "category":"Gadgets",
+        "type": "Camera",
+        "name": "Action Camera Waterproof",
+        "price": 22,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/PWk1rfk/gadgets14.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "15",
+        "category":"Gadgets",
+        "type": "Earphones",
+        "name": "Lenovo HE05 Bluetooth 5.0 Magnetic Earphones",
+        "price": 12,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/42J2xJg/gadgets15.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "16",
+        "category":"Gadgets",
+        "type": "Power Bank",
+        "name": "Steel Body Power Bank Version 2 (10000mah)",
+        "price": 18,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/7RKQtZ6/gadgets16.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "17",
+        "category":"Gadgets",
+        "type": "Earbuds",
+        "name": "Noise Reduction Earbuds",
+        "price": 14,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/WpSR1Mf/gadgets17.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "18",
+        "category":"Gadgets",
+        "type": "Phone Cover",
+        "name": "TPU Cover for OnePlus 8T",
+        "price": 8,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/bmFBZnZ/gadget18.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "19",
+        "category":"Gadgets",
+        "type": "USB Cable",
+        "name": "USB 3.0 Type C Fast Charging Cable",
+        "price": 3,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/R9B4p1R/gadgets19.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "20",
+        "category":"Gadgets",
+        "type": "Earphones",
+        "name": "Universal UiiSii C100 Wired Earphones",
+        "price": 7,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/xshStN7/gadget20.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "21",
+        "category":"Gadgets",
+        "type": "Smart Watch",
+        "name": "W64 Smart Watch",
+        "price": 11,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/7rrYtkn/gadgets21.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "22",
+        "category":"Gadgets",
+        "type": "Memory Card",
+        "name": "Micro SD Memory Card 32gb",
+        "price": 4,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/pRV45CG/gadget22.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "23",
+        "category":"Gadgets",
+        "type": "OTG Fan",
+        "name": "Mini OTG Fan For Android Phone",
+        "price": 1,
+        "ratings": 4.9,
+        "img": "https://i.ibb.co/svjNp3f/gadgets23.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "24",
+        "category":"Gadgets",
+        "type": "Smart Watch",
+        "name": "Colmi P28 Plus Smart Watch Waterproof",
+        "price": 12,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/7bPwvYP/gadgets24.jpg",
+        "shipping": 1
+    }
+]

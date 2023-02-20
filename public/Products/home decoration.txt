@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "category":"Home Decoration",
+        "type": "Bed Sheet",
+        "name": "Multicolor King Size Bed Sheet",
+        "price": 12,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/rF2rGsj/homedecoration1.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "2",
+        "category":"Home Decoration",
+        "type": "Pillow Cover",
+        "name": "Printed Head Pillow Cover",
+        "price": 6,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/JCpKPV3/homedecoration2.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "3",
+        "category":"Home Decoration",
+        "type": "Decoration",
+        "name": "Comforter",
+        "price": 12,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/v4PYqrM/homedecoration3.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "4",
+        "category":"Home Decoration",
+        "type": "Decoration",
+        "name": "Waredrobe Butterfly",
+        "price": 19,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/ZKxT5n0/homedecoration4.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "5",
+        "category":"Home Decoration",
+        "type": "Bag",
+        "name": "Lazy Bag",
+        "price": 6,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/w4rchM5/homedecoration5.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "6",
+        "category":"Home Decoration",
+        "type": "Show Piece",
+        "name": "Boat Metal Show Piece",
+        "price": 12,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/Q6Pcnmm/homedecoration6.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "7",
+        "category":"Home Decoration",
+        "type": "Mirror",
+        "name": "Wooden Made Wall Mirror",
+        "price": 7,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/jbxq9tZ/homedecoration7.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "8",
+        "category":"Home Decoration",
+        "type": "Frame",
+        "name": "Picture Glass Frame",
+        "price": 13,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/4NrbhgS/homedecoration8.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "9",
+        "category":"Home Decoration",
+        "type": "Vase",
+        "name": "Butterfly Vase",
+        "price": 16,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/SV6Lyqb/homedecoration9.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "10",
+        "category":"Home Decoration",
+        "type": "Mat",
+        "name": "Door Mat",
+        "price": 5,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/MSbLV8D/homedecoration10.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "11",
+        "category":"Home Decoration",
+        "type": "Lamp",
+        "name": "Classic Metal Desk Lamp",
+        "price": 10,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/CV8XT2p/homedecoration11.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "12",
+        "category":"Home Decoration",
+        "type": "Door Bell",
+        "name": "Wind Chime Door Bell",
+        "price": 8,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/5xyTdXd/homedecoration12.jpg",
+        "shipping": 1
+    }
+]

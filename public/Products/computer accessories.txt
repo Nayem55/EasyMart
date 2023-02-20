@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "category":"Computer Accessories",
+        "type": "Mouse",
+        "name": "Rechargeable Wireless Mouse",
+        "price": 5,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/9qHZSk4/accessories1.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "2",
+        "category":"Computer Accessories",
+        "type": "Keyboard",
+        "name": "A4TECH KRS-92 Keyboard",
+        "price": 7,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/ssLPLkF/accessories2.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "3",
+        "category":"Computer Accessories",
+        "type": "Monitor",
+        "name": "Eye-care Stylish IPS Monitor",
+        "price": 32,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/0Dkg1fx/accessories3.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "4",
+        "category":"Computer Accessories",
+        "type": "Microphone",
+        "name": "BOYA M1 Microphone",
+        "price": 4,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/85HXsTX/accessories4.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "5",
+        "category":"Computer Accessories",
+        "type": "Speaker",
+        "name": "D7 Multimedia Speaker",
+        "price": 6,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/1rw96pX/accessories5.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "6",
+        "category":"Computer Accessories",
+        "type": "Web Cam",
+        "name": "Web Cam Full HD",
+        "price": 11,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/SK7htDR/accessories6.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "7",
+        "category":"Computer Accessories",
+        "type": "Router",
+        "name": "300mbps Wireless Router",
+        "price": 21,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/RT3mt4x/accessories7.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "8",
+        "category":"Computer Accessories",
+        "type": "Modem",
+        "name": "3G/4G Modem",
+        "price": 15,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/DC4jN8Q/accessories8.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "9",
+        "category":"Computer Accessories",
+        "type": "Projector",
+        "name": "LCD Projector Native HD",
+        "price": 31,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/dKBTt89/accessories9.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "10",
+        "category":"Computer Accessories",
+        "type": "Laptop Bag",
+        "name": "Waterproof Laptop Bag",
+        "price": 5,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/zfLL6gz/accessories10.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "11",
+        "category":"Computer Accessories",
+        "type": "Headphone",
+        "name": "Lenovo HU75 Gaming Headphone",
+        "price": 18,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/TmhzZT7/accessories11.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "12",
+        "category":"Computer Accessories",
+        "type": "Adaptor",
+        "name": "Stereo jack Splitter Adaptor",
+        "price": 3,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/wLnGGy5/accessories12.jpg",
+        "shipping": 1
+    }
+]

@@ -1,0 +1,1082 @@
+[
+    {
+        "id": "1",
+        "category":"Boy's Fashion",
+        "type": "Men's Pant",
+        "name": "Formal Pant",
+        "price": 22,
+        "ratings": 4,
+        "img": "https://i.ibb.co/K6Qx9Xg/boys1.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "2",
+        "category":"Boy's Fashion",
+        "type": "Men's T-Shirt",
+        "name": "Full-Sleeve T-Shirt",
+        "price": 9,
+        "ratings": 3.9,
+        "img": "https://i.ibb.co/CK24GgZ/boys2.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "3",
+        "category":"Boy's Fashion",
+        "type": "Men's Panjabi",
+        "name": "Printed Stylish Panjabi",
+        "price": 15,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/fMsHCyJ/boys3.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "4",
+        "category":"Boy's Fashion",
+        "type": "Men's Shoe",
+        "name": "Formal Stylish Shoe",
+        "price": 12,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/zV5C873/boys4.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "5",
+        "category":"Boy's Fashion",
+        "type": "Men's Watch",
+        "name": "Luxurious Watch",
+        "price": 33,
+        "ratings": 4.9,
+        "img": "https://i.ibb.co/F0pDHY0/boys5.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "6",
+        "category":"Boy's Fashion",
+        "type": "Men's Belt",
+        "name": "Leather Belt",
+        "price": 6,
+        "ratings": 3.5,
+        "img": "https://i.ibb.co/mJbxzhH/boys6.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "7",
+        "category":"Boy's Fashion",
+        "type": "Men's Wallet",
+        "name": "Exclusive Leather Wallet",
+        "price": 11,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/F6RydKj/boys7.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "8",
+        "category":"Boy's Fashion",
+        "type": "Men's Shoe",
+        "name": "Fashionable Sneakers",
+        "price": 23,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/SBWdXDQ/boys8.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "9",
+        "category":"Boy's Fashion",
+        "type": "Men's Watch",
+        "name": "Digital LED Watch",
+        "price": 19,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/VWD7MyX/boys9.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "10",
+        "category":"Boy's Fashion",
+        "type": "Men's Fashion",
+        "name": "Sport Jacket",
+        "price": 24,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/Mf7bPbD/boys10.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "11",
+        "category":"Boy's Fashion",
+        "type": "Men's T-Shirt",
+        "name": "Casual T-Shirt",
+        "price": 9,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/pwBg9wQ/boys11.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "12",
+        "category":"Boy's Fashion",
+        "type": "Men's Pant",
+        "name": "Basic Stylish Pant",
+        "price": 16,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/k97TvTT/boys12.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "1",
+        "category":"Girl's Fashion",
+        "type": "Women's Sunglass",
+        "name": "Women Colour Sunglass",
+        "price": 7,
+        "ratings": 3.7,
+        "img": "https://i.ibb.co/2jM9xxy/girls1.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "2",
+        "category":"Girl's Fashion",
+        "type": "Women's Sharee",
+        "name": "Half Silk Sharee",
+        "price": 20,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/SBVrvbQ/girls2.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "3",
+        "category":"Girl's Fashion",
+        "type": "Women's Pant",
+        "name": "Slim Fit Pant",
+        "price": 14,
+        "ratings": 4.9,
+        "img": "https://i.ibb.co/S07QrR5/girls3.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "4",
+        "category":"Girl's Fashion",
+        "type": "Women's Fashion",
+        "name": "Fabric Embroidered Salwar Set",
+        "price": 19,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/WgkRfFL/girls4.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "5",
+        "category":"Girl's Fashion",
+        "type": "Women's Fashion",
+        "name": "Stylish Kurti",
+        "price": 15,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/wRyyj7y/girls5.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "6",
+        "category":"Girl's Fashion",
+        "type": "Women's Watch",
+        "name": "Luxurious Watch",
+        "price": 12,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/0qs8VBt/girls6.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "7",
+        "category":"Girl's Fashion",
+        "type": "Women's Watch",
+        "name": "Exclusive Watch",
+        "price": 8,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/vwKRfCm/girls7.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "8",
+        "category":"Girl's Fashion",
+        "type": "Women's Shoe",
+        "name": "Stylish Sandal",
+        "price": 11,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/6s1Gndh/girls8.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "9",
+        "category":"Girl's Fashion",
+        "type": "Women's Shoe",
+        "name": "Printed Shoe",
+        "price": 13,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/4NBTYNq/girls9.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "10",
+        "category":"Girl's Fashion",
+        "type": "Women's Perfume",
+        "name": "Romantic Perfume",
+        "price": 17,
+        "ratings": 4.9,
+        "img": "https://i.ibb.co/88LtVv4/girls10.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "11",
+        "category":"Girl's Fashion",
+        "type": "Women's Sharee",
+        "name": "Jorjet Sharee",
+        "price": 25,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/bWrwvZg/girls11.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "12",
+        "category":"Girl's Fashion",
+        "type": "Women's Bag",
+        "name": "Stylish Bag",
+        "price": 12,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/vv65z4N/girls12.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "1",
+        "category":"Household Items",
+        "type": "Fan",
+        "name": "Rangs Fan",
+        "price": 19,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/jh5YkD7/household1.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "2",
+        "category":"Household Items",
+        "type": "Items",
+        "name": "Folding Iron Table & Iron",
+        "price": 23,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/SyzHt7x/household2.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "3",
+        "category":"Household Items",
+        "type": "Folding Umbrella",
+        "name": "Mini Folding Umbrella With Capsule Case",
+        "price": 12,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/dBCB6rC/household3.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "4",
+        "category":"Household Items",
+        "type": "Light",
+        "name": "Emergency AC-DC Light",
+        "price": 5,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/cY3FSh2/household4.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "5",
+        "category":"Household Items",
+        "type": "Water Purifier",
+        "name": "Pure It",
+        "price": 24,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/smXHn8B/household5.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "6",
+        "category":"Household Items",
+        "type": "Tools",
+        "name": "Electric Mini Sewing Machine",
+        "price": 10,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/1KPtRjf/household6.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "7",
+        "category":"Household Items",
+        "type": "Air Bed",
+        "name": "Double Air Bed With Pumper",
+        "price": 19,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/kGjvnHY/household7.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "8",
+        "category":"Household Items",
+        "type": "Chair",
+        "name": "Medium Rocking Chair",
+        "price": 16,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/NTRyVh0/household8.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "9",
+        "category":"Household Items",
+        "type": "Tools",
+        "name": "Inflatable Sofa Cum with Pumper",
+        "price": 21,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/xYFHtbV/household9.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "10",
+        "category":"Household Items",
+        "type": "Tools",
+        "name": "Screw Driver Set",
+        "price": 13,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/51qhC7Q/household10.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "11",
+        "category":"Household Items",
+        "type": "Tools",
+        "name": "Combination Pliers",
+        "price": 10,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/tsY70Hd/household11.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "12",
+        "category":"Household Items",
+        "type": "Accessories Box",
+        "name": "Sewing Accessories Box",
+        "price": 4,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/5WMcscb/household12.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "1",
+        "category":"Computer Accessories",
+        "type": "Mouse",
+        "name": "Rechargeable Wireless Mouse",
+        "price": 5,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/9qHZSk4/accessories1.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "2",
+        "category":"Computer Accessories",
+        "type": "Keyboard",
+        "name": "A4TECH KRS-92 Keyboard",
+        "price": 7,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/ssLPLkF/accessories2.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "3",
+        "category":"Computer Accessories",
+        "type": "Monitor",
+        "name": "Eye-care Stylish IPS Monitor",
+        "price": 32,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/0Dkg1fx/accessories3.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "4",
+        "category":"Computer Accessories",
+        "type": "Microphone",
+        "name": "BOYA M1 Microphone",
+        "price": 4,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/85HXsTX/accessories4.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "5",
+        "category":"Computer Accessories",
+        "type": "Speaker",
+        "name": "D7 Multimedia Speaker",
+        "price": 6,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/1rw96pX/accessories5.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "6",
+        "category":"Computer Accessories",
+        "type": "Web Cam",
+        "name": "Web Cam Full HD",
+        "price": 11,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/SK7htDR/accessories6.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "7",
+        "category":"Computer Accessories",
+        "type": "Router",
+        "name": "300mbps Wireless Router",
+        "price": 21,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/RT3mt4x/accessories7.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "8",
+        "category":"Computer Accessories",
+        "type": "Modem",
+        "name": "3G/4G Modem",
+        "price": 15,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/DC4jN8Q/accessories8.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "9",
+        "category":"Computer Accessories",
+        "type": "Projector",
+        "name": "LCD Projector Native HD",
+        "price": 31,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/dKBTt89/accessories9.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "10",
+        "category":"Computer Accessories",
+        "type": "Laptop Bag",
+        "name": "Waterproof Laptop Bag",
+        "price": 5,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/zfLL6gz/accessories10.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "11",
+        "category":"Computer Accessories",
+        "type": "Headphone",
+        "name": "Lenovo HU75 Gaming Headphone",
+        "price": 18,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/TmhzZT7/accessories11.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "12",
+        "category":"Computer Accessories",
+        "type": "Adaptor",
+        "name": "Stereo jack Splitter Adaptor",
+        "price": 3,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/wLnGGy5/accessories12.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "1",
+        "category":"Gadgets",
+        "type": "Tab",
+        "name": "LCD Writing Tab",
+        "price": 4,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/tKHNBYk/gadgets1.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "2",
+        "category":"Gadgets",
+        "type": "Laptop",
+        "name": "Chuwi Hi 10x Laptop",
+        "price": 400,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/ZfRt77T/gadgets2.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "3",
+        "category":"Gadgets",
+        "type": "Camera",
+        "name": "Canon EOS Camera",
+        "price": 510,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/8D2pybk/gadgets3.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "4",
+        "category":"Gadgets",
+        "type": "Camera",
+        "name": "HD Pen camera recorder",
+        "price": 36,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/sV5ppGm/gadgets4.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "5",
+        "category":"Gadgets",
+        "type": "Headphones",
+        "name": "M18 Bluetooth headphones",
+        "price": 21,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/PZXp4tc/gadgets5.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "6",
+        "category":"Gadgets",
+        "type": "Laptop",
+        "name": "Chuwi HeroBook Pro Laptop",
+        "price": 560,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/Jj2z0WJ/gadgets6.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "7",
+        "category":"Gadgets",
+        "type": "Gadgets",
+        "name": "Octopus Tripod",
+        "price": 12,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/Fn6gDbT/gadgets7.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "8",
+        "category":"Gadgets",
+        "type": "Charger",
+        "name": "Durable Compact Fast Charger",
+        "price": 14,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/B3bPfw7/gadgets8.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "9",
+        "category":"Gadgets",
+        "type": "Web Cam",
+        "name": "WiFi IP 360 Degree Camera",
+        "price": 19,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/Dgwjdf8/gadgets9.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "10",
+        "category":"Gadgets",
+        "type": "Earphone",
+        "name": "Alloy HiFi Earphone",
+        "price": 11,
+        "ratings": 4.9,
+        "img": "https://i.ibb.co/zncWFfL/gadgets10.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "11",
+        "category":"Gadgets",
+        "type": "Charger",
+        "name": "Fast Charging Travel Charger",
+        "price": 16,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/r781GZX/gadgets11.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "12",
+        "category":"Gadgets",
+        "type": "USB Hub",
+        "name": "4 Port USB 3.0 Hub",
+        "price": 6,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/bd7GHn2/gadgets12.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "13",
+        "category":"Gadgets",
+        "type": "USB Cable",
+        "name": "Fast USB Cable",
+        "price": 2,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/8m7hgkY/gadget13.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "14",
+        "category":"Gadgets",
+        "type": "Camera",
+        "name": "Action Camera Waterproof",
+        "price": 22,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/PWk1rfk/gadgets14.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "15",
+        "category":"Gadgets",
+        "type": "Earphones",
+        "name": "Lenovo HE05 Bluetooth 5.0 Magnetic Earphones",
+        "price": 12,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/42J2xJg/gadgets15.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "16",
+        "category":"Gadgets",
+        "type": "Power Bank",
+        "name": "Steel Body Power Bank Version 2 (10000mah)",
+        "price": 18,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/7RKQtZ6/gadgets16.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "17",
+        "category":"Gadgets",
+        "type": "Earbuds",
+        "name": "Noise Reduction Earbuds",
+        "price": 14,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/WpSR1Mf/gadgets17.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "18",
+        "category":"Gadgets",
+        "type": "Phone Cover",
+        "name": "TPU Cover for OnePlus 8T",
+        "price": 8,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/bmFBZnZ/gadget18.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "19",
+        "category":"Gadgets",
+        "type": "USB Cable",
+        "name": "USB 3.0 Type C Fast Charging Cable",
+        "price": 3,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/R9B4p1R/gadgets19.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "20",
+        "category":"Gadgets",
+        "type": "Earphones",
+        "name": "Universal UiiSii C100 Wired Earphones",
+        "price": 7,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/xshStN7/gadget20.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "21",
+        "category":"Gadgets",
+        "type": "Smart Watch",
+        "name": "W64 Smart Watch",
+        "price": 11,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/7rrYtkn/gadgets21.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "22",
+        "category":"Gadgets",
+        "type": "Memory Card",
+        "name": "Micro SD Memory Card 32gb",
+        "price": 4,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/pRV45CG/gadget22.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "23",
+        "category":"Gadgets",
+        "type": "OTG Fan",
+        "name": "Mini OTG Fan For Android Phone",
+        "price": 1,
+        "ratings": 4.9,
+        "img": "https://i.ibb.co/svjNp3f/gadgets23.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "24",
+        "category":"Gadgets",
+        "type": "Smart Watch",
+        "name": "Colmi P28 Plus Smart Watch Waterproof",
+        "price": 12,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/7bPwvYP/gadgets24.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "1",
+        "category":"Jewelry",
+        "type": "Women's Jewelry",
+        "name": "Gold Plated Churi",
+        "price": 18,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/Swy6hNj/jewelry1.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "2",
+        "category":"Jewelry",
+        "type": "Earrings",
+        "name": "Vintage Leaves Drop Earrings",
+        "price": 11,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/TTXhH2s/jewelry2.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "3",
+        "category":"Jewelry",
+        "type": "Earrings",
+        "name": "Zircon Stones Earrings",
+        "price": 13,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/3Nrvhfm/jewelry3.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "4",
+        "category":"Jewelry",
+        "type": "Ring",
+        "name": "Branch Shaped Finger Ring",
+        "price": 9,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/x2dptT3/jewelry4.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "5",
+        "category":"Jewelry",
+        "type": "Women's Jewelry",
+        "name": "Jhapta",
+        "price": 15,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/27zxCRW/jewelry5.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "6",
+        "category":"Jewelry",
+        "type": "Women's Jewelry",
+        "name": "Ladies Pendant Set & Earrings",
+        "price": 19,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/p1yk7F4/jewelry6.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "7",
+        "category":"Jewelry",
+        "type": "Men's Sneaker",
+        "name": "Hijab Clip",
+        "price": 6,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/526JPJQ/jewelry7.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "8",
+        "category":"Jewelry",
+        "type": "Women's Jewelry",
+        "name": "Exclusive Jewelry Set",
+        "price": 13,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/Vjbk4qG/jewelry8.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "9",
+        "category":"Jewelry",
+        "type": "Women's Nose Pin",
+        "name": "Diamond Nose Pin",
+        "price": 21,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/rccgGCF/jewelry9.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "10",
+        "category":"Jewelry",
+        "type": "Women's Jewelry",
+        "name": "Stylish Payel",
+        "price": 5,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/WBbjnRg/jewelry10.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "11",
+        "category":"Jewelry",
+        "type": "Women's Pendant",
+        "name": "Crystal Blue Pendant",
+        "price": 17,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/yPP9tTT/jewelry11.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "12",
+        "category":"Jewelry",
+        "type": "Women's Jewelry",
+        "name": "Silk Thread Churi Set",
+        "price": 10,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/G5Hg679/jewelry12.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "1",
+        "category":"Home Decoration",
+        "type": "Bed Sheet",
+        "name": "Multicolor King Size Bed Sheet",
+        "price": 12,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/rF2rGsj/homedecoration1.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "2",
+        "category":"Home Decoration",
+        "type": "Pillow Cover",
+        "name": "Printed Head Pillow Cover",
+        "price": 6,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/JCpKPV3/homedecoration2.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "3",
+        "category":"Home Decoration",
+        "type": "Decoration",
+        "name": "Comforter",
+        "price": 12,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/v4PYqrM/homedecoration3.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "4",
+        "category":"Home Decoration",
+        "type": "Decoration",
+        "name": "Waredrobe Butterfly",
+        "price": 19,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/ZKxT5n0/homedecoration4.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "5",
+        "category":"Home Decoration",
+        "type": "Bag",
+        "name": "Lazy Bag",
+        "price": 6,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/w4rchM5/homedecoration5.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "6",
+        "category":"Home Decoration",
+        "type": "Show Piece",
+        "name": "Boat Metal Show Piece",
+        "price": 12,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/Q6Pcnmm/homedecoration6.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "7",
+        "category":"Home Decoration",
+        "type": "Mirror",
+        "name": "Wooden Made Wall Mirror",
+        "price": 7,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/jbxq9tZ/homedecoration7.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "8",
+        "category":"Home Decoration",
+        "type": "Frame",
+        "name": "Picture Glass Frame",
+        "price": 13,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/4NrbhgS/homedecoration8.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "9",
+        "category":"Home Decoration",
+        "type": "Vase",
+        "name": "Butterfly Vase",
+        "price": 16,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/SV6Lyqb/homedecoration9.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "10",
+        "category":"Home Decoration",
+        "type": "Mat",
+        "name": "Door Mat",
+        "price": 5,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/MSbLV8D/homedecoration10.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "11",
+        "category":"Home Decoration",
+        "type": "Lamp",
+        "name": "Classic Metal Desk Lamp",
+        "price": 10,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/CV8XT2p/homedecoration11.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "12",
+        "category":"Home Decoration",
+        "type": "Door Bell",
+        "name": "Wind Chime Door Bell",
+        "price": 8,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/5xyTdXd/homedecoration12.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "1",
+        "category":"Cosmetics",
+        "type": "Cream",
+        "name": "Nivea Cream",
+        "price": 3,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/WpbqYp6/cosmetics1.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "2",
+        "category":"Cosmetics",
+        "type": "Hair Oil",
+        "name": "Ribana Olive Oil",
+        "price": 6,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/0Zjtzcc/cosmetics2.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "3",
+        "category":"Cosmetics",
+        "type": "Shampoo",
+        "name": "Dove Hairfall Shampoo",
+        "price": 5,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/F7XQPGX/cosmetics3.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "4",
+        "category":"Cosmetics",
+        "type": "Lipstick",
+        "name": "Imagic Liquid Lipstick",
+        "price": 3,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/DC4S98J/cosmetics4.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "5",
+        "category":"Cosmetics",
+        "type": "Conditioner",
+        "name": "Pantene Advanced Hair Fall Solution",
+        "price": 5,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/zxLF19k/cosmetics5.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "6",
+        "category":"Cosmetics",
+        "type": "Hair Straightener",
+        "name": "KEMEI Professional Electronic",
+        "price": 12,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/jMwRpmC/cosmetics6.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "7",
+        "category":"Cosmetics",
+        "type": "Hair Dryer",
+        "name": "Nova Professional Hair Dryer",
+        "price": 9,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/cYG01S3/cosmetics7.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "8",
+        "category":"Cosmetics",
+        "type": "Eyeshadow",
+        "name": "60 Colors Eyeshadow Palette",
+        "price": 6,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/dbZnzM6/cosmetics8.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "9",
+        "category":"Cosmetics",
+        "type": "Eyeliner",
+        "name": "W7 Liquid Eyeliner Pot",
+        "price": 4,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/znDGL3N/cosmetics9.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "10",
+        "category":"Cosmetics",
+        "type": "Foundation",
+        "name": "Fit Me Matte Plus Foundation",
+        "price": 6,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/n1S59sP/cosmetics10.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "11",
+        "category":"Cosmetics",
+        "type": "Highlighter",
+        "name": "Technic Mega Glow Highlighter Palette",
+        "price": 3,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/ZWJGLwR/cosmetics11.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "12",
+        "category":"Cosmetics",
+        "type": "Concealer",
+        "name": "L.A. Girl’s HD Pro Concealer",
+        "price": 2,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/q0F11x0/cosmetics12.jpg",
+        "shipping": 1
+    }
+]

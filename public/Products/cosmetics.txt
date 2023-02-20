@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "category":"Cosmetics",
+        "type": "Cream",
+        "name": "Nivea Cream",
+        "price": 3,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/WpbqYp6/cosmetics1.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "2",
+        "category":"Cosmetics",
+        "type": "Hair Oil",
+        "name": "Ribana Olive Oil",
+        "price": 6,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/0Zjtzcc/cosmetics2.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "3",
+        "category":"Cosmetics",
+        "type": "Shampoo",
+        "name": "Dove Hairfall Shampoo",
+        "price": 5,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/F7XQPGX/cosmetics3.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "4",
+        "category":"Cosmetics",
+        "type": "Lipstick",
+        "name": "Imagic Liquid Lipstick",
+        "price": 3,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/DC4S98J/cosmetics4.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "5",
+        "category":"Cosmetics",
+        "type": "Conditioner",
+        "name": "Pantene Advanced Hair Fall Solution",
+        "price": 5,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/zxLF19k/cosmetics5.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "6",
+        "category":"Cosmetics",
+        "type": "Hair Straightener",
+        "name": "KEMEI Professional Electronic",
+        "price": 12,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/jMwRpmC/cosmetics6.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "7",
+        "category":"Cosmetics",
+        "type": "Hair Dryer",
+        "name": "Nova Professional Hair Dryer",
+        "price": 9,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/cYG01S3/cosmetics7.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "8",
+        "category":"Cosmetics",
+        "type": "Eyeshadow",
+        "name": "60 Colors Eyeshadow Palette",
+        "price": 6,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/dbZnzM6/cosmetics8.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "9",
+        "category":"Cosmetics",
+        "type": "Eyeliner",
+        "name": "W7 Liquid Eyeliner Pot",
+        "price": 4,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/znDGL3N/cosmetics9.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "10",
+        "category":"Cosmetics",
+        "type": "Foundation",
+        "name": "Fit Me Matte Plus Foundation",
+        "price": 6,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/n1S59sP/cosmetics10.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "11",
+        "category":"Cosmetics",
+        "type": "Highlighter",
+        "name": "Technic Mega Glow Highlighter Palette",
+        "price": 3,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/ZWJGLwR/cosmetics11.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "12",
+        "category":"Cosmetics",
+        "type": "Concealer",
+        "name": "L.A. Girl’s HD Pro Concealer",
+        "price": 2,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/q0F11x0/cosmetics12.jpg",
+        "shipping": 1
+    }
+]

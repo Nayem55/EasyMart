@@ -3,19 +3,24 @@ import { Link } from "react-router-dom";
 import "./Navbar.css";
 import logo from "./logo (1).png";
 import profile from "./profile.png";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {faBars} from '@fortawesome/free-solid-svg-icons'
 
 const Navbar = () => {
   return (
-    <div className="mx-0 lg:mx-10">
-      <div className="navbar flex justify-between bg-base-100">
+    <div className="lg:sticky top-0 w-full">
+      <div className="navbar px-0 lg:px-10 flex justify-between bg-base-100">
         {/* logo */}
         <div className="">
-          <Link className="normal-case text-xl">
+        <label htmlFor="my-drawer-2" className="drawer-button">
+        <FontAwesomeIcon className="mr-4 ml-2 pt-2 cursor-pointer" icon={faBars}></FontAwesomeIcon>
+        </label>        
+          <Link to='/' className="normal-case text-xl">
             <img className="w-[120px] lg:w-[140px]" src={logo} alt="" />
           </Link>
         </div>
         {/* search bar fr larger screen */}
-        <div className="form-control hidden lg:block">
+        <div className="form-control text-white hidden lg:block">
           <div className="input-group">
             <select className="select select-bordered w-[600px] bg-secondary">
               <option selected>Pick category</option>
@@ -90,9 +95,9 @@ const Navbar = () => {
             >
               <div className="card-body">
                 <span className="font-bold text-lg">8 Items</span>
-                <span className="text-info">Subtotal: $999</span>
+                <span className="text-secondary">Subtotal: $999</span>
                 <div className="card-actions">
-                  <button className="btn btn-primary btn-block">
+                  <button className="btn btn-primary text-white btn-block">
                     View cart
                   </button>
                 </div>
@@ -126,7 +131,7 @@ const Navbar = () => {
         </div>
       </div>
       {/* search bar fr smaller screen  */}
-      <div className="form-control mb-4 mx-4 lg:hidden">
+      <div className="form-control bg-white w-full mb-4 px-4 lg:pb-4 text-white lg:hidden">
         <div className="input-group">
           <select className="select select-bordered w-72 bg-secondary">
             <option selected>Pick category</option>
@@ -173,6 +178,25 @@ const Navbar = () => {
           </button>
         </div>
       </div>
+      {/* side navbar */}
+      <div className="sideBar">
+        <input id="my-drawer-2" type="checkbox" className="drawer-toggle" />
+        <div className="drawer-side">
+          <label htmlFor="my-drawer-2" className="drawer-overlay"></label> 
+          <ul className="menu bg-secondary p-4 w-80 ">
+            {/* <!-- Sidebar content here --> */}
+            <li className='hover:bg-primary text-white rounded'><Link to='/boyFashion'>Boys shopping</Link></li>
+            <li className='hover:bg-primary text-white rounded'><Link to="/girlFashion">Girls shopping</Link></li>
+            <li className='hover:bg-primary text-white rounded'><Link to="/household">Household items</Link></li>
+            <li className='hover:bg-primary text-white rounded'><Link to="/computers">Computer Accessories</Link></li>
+            <li className='hover:bg-primary text-white rounded'><Link to="/gadgets">Gadgets</Link></li>
+            <li className='hover:bg-primary text-white rounded'><Link to="/jewellery">Jewellery</Link></li>
+            <li className='hover:bg-primary text-white rounded'><Link to="/homedecoration">Home decoration</Link></li>
+            <li className='hover:bg-primary text-white rounded'><Link to="/cosmetics">Cosmetics</Link></li>
+          </ul>
+        </div>
+      </div>
+      
     </div>
   );
 };

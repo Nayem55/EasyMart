@@ -1,12 +1,26 @@
-.banner{
-    background-image: url(banner.jpeg);
-    background-size: cover;
-    height: 90vh;
+.banner img{
+    width: 100vw;
+    height: 70vh;
+}
+.specialProduct{
+    width: 220px;
+    border: 1px solid #f5760e;
+    margin: 15px auto;
+    padding: 10px;
+    cursor: pointer;
+}
+.specialProduct img{
+    width: 200px;
+    margin: 0 auto;
+    transition: all ease-in .2s;
+}
+
+.specialProduct img:hover{
+    width: 180px;
+    margin: 0 auto;
 }
 @media(max-width:700px){
-    .banner{
-        background-size: contain;
-        background-repeat: no-repeat;
+    .banner img{
         height: 40vh;
     }
 }

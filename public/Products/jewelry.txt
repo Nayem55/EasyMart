@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "category":"Jewelry",
+        "type": "Women's Jewelry",
+        "name": "Gold Plated Churi",
+        "price": 18,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/Swy6hNj/jewelry1.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "2",
+        "category":"Jewelry",
+        "type": "Earrings",
+        "name": "Vintage Leaves Drop Earrings",
+        "price": 11,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/TTXhH2s/jewelry2.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "3",
+        "category":"Jewelry",
+        "type": "Earrings",
+        "name": "Zircon Stones Earrings",
+        "price": 13,
+        "ratings": 4.5,
+        "img": "https://i.ibb.co/3Nrvhfm/jewelry3.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "4",
+        "category":"Jewelry",
+        "type": "Ring",
+        "name": "Branch Shaped Finger Ring",
+        "price": 9,
+        "ratings": 4.2,
+        "img": "https://i.ibb.co/x2dptT3/jewelry4.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "5",
+        "category":"Jewelry",
+        "type": "Women's Jewelry",
+        "name": "Jhapta",
+        "price": 15,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/27zxCRW/jewelry5.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "6",
+        "category":"Jewelry",
+        "type": "Women's Jewelry",
+        "name": "Ladies Pendant Set & Earrings",
+        "price": 19,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/p1yk7F4/jewelry6.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "7",
+        "category":"Jewelry",
+        "type": "Men's Sneaker",
+        "name": "Hijab Clip",
+        "price": 6,
+        "ratings": 4.8,
+        "img": "https://i.ibb.co/526JPJQ/jewelry7.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "8",
+        "category":"Jewelry",
+        "type": "Women's Jewelry",
+        "name": "Exclusive Jewelry Set",
+        "price": 13,
+        "ratings": 4.4,
+        "img": "https://i.ibb.co/Vjbk4qG/jewelry8.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "9",
+        "category":"Jewelry",
+        "type": "Women's Nose Pin",
+        "name": "Diamond Nose Pin",
+        "price": 21,
+        "ratings": 4.6,
+        "img": "https://i.ibb.co/rccgGCF/jewelry9.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "10",
+        "category":"Jewelry",
+        "type": "Women's Jewelry",
+        "name": "Stylish Payel",
+        "price": 5,
+        "ratings": 4.1,
+        "img": "https://i.ibb.co/WBbjnRg/jewelry10.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "11",
+        "category":"Jewelry",
+        "type": "Women's Pendant",
+        "name": "Crystal Blue Pendant",
+        "price": 17,
+        "ratings": 4.7,
+        "img": "https://i.ibb.co/yPP9tTT/jewelry11.jpg",
+        "shipping": 1
+    },
+    {
+        "id": "12",
+        "category":"Jewelry",
+        "type": "Women's Jewelry",
+        "name": "Silk Thread Churi Set",
+        "price": 10,
+        "ratings": 4.3,
+        "img": "https://i.ibb.co/G5Hg679/jewelry12.jpg",
+        "shipping": 1
+    }
+]
